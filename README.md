@@ -1,4 +1,4 @@
-Código y memoria de la sección de informática de mi trabajo fin de grado, Visualización realista por Monte-Carlo. La memoria está contenida en libro.pdf y se puede compilar con libro.tex. A continuación se incluyen unas breves aclaraciones sobre el código:
+Código y memoria de la sección de informática de mi trabajo fin de grado, Visualización realista por Monte-Carlo. La memoria está contenida en memoria\libro.pdf. A continuación se incluyen unas breves aclaraciones sobre el código:
 
 Información básica de la estructura de la entrega de este trabajo. Se adjunta la memoria en un pdf y una carpeta con la implementación del código creado para los experimentos. Este código es, en su mayoría, obra de Peter Shirley, tal y como se ha especificado en la memoria del trabajo. Si se quiere acceder al trabajo original tal y como se escribió, se puede encontrar aquí: [Ray Tracing in One Weekend Github](https://github.com/RayTracing/raytracing.github.io), el que se ha escogido para este trabajo es la parte de Rest of Your Life, en concreto. El código se incluye aquí porque es necesario para ejecutar el código, y no hemos visto problema ya que el copyright original es CC0.
 
